@@ -177,7 +177,7 @@ export default {
       const obj = {
         nome: "Nome",
         tipo: "Tipo",
-        data: "Data/hora",
+        data: "Data",
         id: "Ação",
       };
       return obj[col];
