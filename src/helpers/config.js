@@ -1,5 +1,5 @@
 export default {
   get apiUrl() {
-    return "http://localhost:8000";
+    return "https://turivius-api.onrender.com";
   },
 };
